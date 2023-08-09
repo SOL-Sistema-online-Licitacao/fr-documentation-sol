@@ -8,6 +8,6 @@ Chaque groupe peut contenir plusieurs éléments. Pour les ajouter, tapez simple
 
 Ensuite, sélectionnez simplement l'article que vous voulez, spécifiez la quantité, le coût estimé et cliquez sur Ajouter. Répétez cette opération autant de fois que nécessaire pour compléter votre nouveau groupe d'éléments.
 
-<figure><img src="../../../../.gitbook/assets/novo grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/grp-new.png" alt=""><figcaption></figcaption></figure>
 
 Après avoir rempli tous les champs, cliquez simplement sur Créer un groupe.

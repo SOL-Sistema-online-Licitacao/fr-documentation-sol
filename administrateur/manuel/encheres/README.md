@@ -2,7 +2,7 @@
 
 Dans l'onglet « Appels d'offres », accessible via le menu principal en haut de la page, vous pouvez voir une liste de tous les appels d'offres enregistrés dans le système, même ceux déjà complétés.
 
-<figure><img src="../../../.gitbook/assets/Licitações.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adm-licit.png" alt=""><figcaption></figcaption></figure>
 
 ### Comment afficher les détails d'une enchère ?
 

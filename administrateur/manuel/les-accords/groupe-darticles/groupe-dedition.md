@@ -10,6 +10,6 @@ Pour ajouter de nouveaux articles, tapez simplement les trois premières lettres
 
 Ensuite, sélectionnez simplement l'article que vous voulez, spécifiez la quantité, le coût estimé et cliquez sur Ajouter. Répétez cette opération autant de fois que nécessaire pour compléter votre nouveau groupe d'éléments.
 
-<figure><img src="../../../../.gitbook/assets/Editar grupo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/grp-upd.png" alt=""><figcaption></figcaption></figure>
 
 Après avoir modifié les informations dont vous avez besoin, cliquez sur Enregistrer. Les modifications seront enregistrées et le groupe sera mis à jour.
