@@ -4,4 +4,4 @@ Pour accéder à la liste des utilisateurs d'adhésion, cliquez sur l'option Uti
 
 La liste affiche les informations Nom, E-mail, CPF/CNPJ et Association. Vous pouvez rechercher par texte en utilisant les informations de la liste.
 
-<figure><img src="../../../../.gitbook/assets/lista user associação.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/us-asso.png" alt=""><figcaption></figcaption></figure>
