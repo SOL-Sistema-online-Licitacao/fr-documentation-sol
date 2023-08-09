@@ -6,7 +6,7 @@ Sur la page « Lots et articles », accessible via le menu latéral. Lorsque vou
 
 S'il est de type "Prix par lot" ou "Prix global", le bouton Remplir la proposition via tableur s'affichera également et vous devrez choisir l'un des modes de remplissage.
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/prop-forn.png" alt=""><figcaption></figcaption></figure>
 
 ### Compléter la proposition via le système
 
@@ -14,7 +14,7 @@ Si vous choisissez de remplir votre proposition directement dans le système, cl
 
 Ensuite, remplissez simplement le champ "Valeur d'expédition". S'il n'y a pas de frais de transport, il est nécessaire de remplir le champ avec le chiffre zéro (0).
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens - Enviar proposta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/prop-1-forn.png" alt=""><figcaption></figcaption></figure>
 
 Une fois la proposition remplie, cliquez simplement sur Soumettre la proposition. Cela fait, attendez simplement la date limite de clôture des enchères. Vous recevrez une notification lorsque l'Association examinera les propositions reçues.
 
@@ -30,6 +30,6 @@ Ce faisant, le téléchargement d'un fichier au format XLSX, qui peut être ouve
 
 Ensuite, retournez au Système et cliquez sur le bouton avec la figure de clips, dans le coin droit du champ « Feuille de calcul », pour joindre le fichier que vous venez de remplir.
 
-<figure><img src="../../../.gitbook/assets/Lotes e itens -Enviar proposta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/prop2-forn.png" alt=""><figcaption></figcaption></figure>
 
 Cela fait, cliquez simplement sur Soumettre la proposition. Dans un court laps de temps, le système vous enverra une notification vous informant si le traitement de la feuille de travail a réussi.

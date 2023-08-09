@@ -1,8 +1,8 @@
 # Enchères
 
-Dans l'onglet "Offres", accessible via le menu principal ou en cliquant sur la page d'accueil du Système, vous êtes dirigé vers l'onglet "Offres", où vous pouvez voir une liste de toutes les offres enregistrées dans le Système, même celles déjà complétées.
+Dans l'onglet "Offres", accessible via le menu principal ou en cliquant sur la page d'accueil du système, vous êtes dirigé vers l'onglet "Offres", vous pouvez voir une liste de toutes les offres auxquelles le fournisseur participe, même celles déjà complété.
 
-<figure><img src="../../../.gitbook/assets/Licitações (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/forn-licit.png" alt=""><figcaption></figcaption></figure>
 
 ### Types d'enchères
 
@@ -30,4 +30,4 @@ La seule différence entre les propositions envoyées pour la modalité « Invit
 
 Pour accéder aux informations complètes sur une offre, cliquez simplement sur une offre sur la page d'accueil du système ou dans la zone d'offre.
 
-<figure><img src="../../../.gitbook/assets/Dados da Licitação (Cancelada).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/forn-licit-det.png" alt=""><figcaption></figcaption></figure>

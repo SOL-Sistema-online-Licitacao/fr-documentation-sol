@@ -1,2 +1,0 @@
-# Intégration des forces
-

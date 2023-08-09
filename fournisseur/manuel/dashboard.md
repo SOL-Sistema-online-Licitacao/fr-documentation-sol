@@ -1,6 +1,6 @@
 # Dashboard
 
-<figure><img src="../../.gitbook/assets/Dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dash-forn.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Lorsque vous accédez à la plate-forme SOL, vous êtes dirigé vers le panneau initial du système (tableau de bord).

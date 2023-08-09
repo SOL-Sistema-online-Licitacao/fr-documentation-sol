@@ -10,8 +10,6 @@ Pour vérifier les détails du contrat ou le signer, cliquez dessus. La page qui
 
 Si le Fournisseur n'a pas de problème concernant les quantités et les délais requis dans le contrat, il doit cliquer sur Accepter. Avec cela, vous signerez numériquement le contrat.
 
-<figure><img src="../../../.gitbook/assets/Contrato (assinado) (1).png" alt=""><figcaption></figcaption></figure>
-
 Lorsque vous cliquez sur Accepter sur la page affichée ci-dessus, le système vous demandera de confirmer l'action. Le statut du contrat sera mis à jour sur "Signé".
 
 ### Refuser le contrat
