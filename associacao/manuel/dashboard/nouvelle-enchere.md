@@ -2,7 +2,7 @@
 
 ### Comment créer une nouvelle enchère ?
 
-Pour créer une nouvelle offre, cliquez simplement sur le bouton Créer une offre. Vous serez dirigé vers l'écran "Nouvelle offre", dans lequel vous devrez renseigner toutes les informations demandées.
+Pour créer une nouvelle offre, cliquez simplement sur le bouton Créer une offre. Vous serez dirigé vers l'écran "Nouvelle offre", dans lequel vous devrez renseigner toutes les informations demandées à toutes les étapes de l'inscription.
 
 {% hint style="info" %}
 Classificação de licitação:
@@ -28,7 +28,13 @@ Type d'enchère :
 * Invitation fermée : seuls les fournisseurs invités peuvent voir ou participer à l'appel d'offres. L'Association gère l'invitation uniquement aux fournisseurs qu'elle souhaite participer à l'appel d'offres créé. Si le Fournisseur invité choisit de participer à l'appel d'offres, il doit envoyer une proposition qui ne pourra plus être modifiée ultérieurement.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Adicionar Licitações.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/licit-new1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/licit-new2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/licit-new3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/licit-new4.png" alt=""><figcaption></figcaption></figure>
 
 Ensuite, cliquez simplement sur Créer une offre et votre offre sera créée en tant que "Brouillon".
 

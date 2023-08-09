@@ -1,10 +1,10 @@
 # Dashboard
 
-<figure><img src="../../../.gitbook/assets/Dashboard (2).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 Lorsque vous accédez à la plate-forme SOL, vous êtes dirigé vers le panneau initial du système (tableau de bord).
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/dash-asso.png" alt=""><figcaption></figcaption></figure>
 
 Sur cet écran d'accueil, vous verrez l'aperçu de votre profil : vos informations personnelles et les dernières offres ouvertes. De plus, sur la page d'accueil, vous pouvez créer une offre en cliquant sur le bouton Nouvelle offre.
 

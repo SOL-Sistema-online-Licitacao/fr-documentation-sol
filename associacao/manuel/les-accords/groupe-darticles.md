@@ -2,7 +2,7 @@
 
 Dans la page "Détails de l'accord", la liste des groupes et des éléments du plan de travail de l'accord est présentée. Ils sont organisés en groupes selon les catégories de produits ou de services.
 
-<figure><img src="../../../.gitbook/assets/Usuários de Convênios (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/con-asso-det.png" alt=""><figcaption></figcaption></figure>
 
 ### Comment voir les détails d'un groupe d'éléments ?
 

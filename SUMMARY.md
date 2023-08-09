@@ -114,3 +114,8 @@
   * [Profil](associacao/manuel/profil/README.md)
     * [Modifier les données](associacao/manuel/profil/modifier-les-donnees.md)
     * [Changer le mot de passe](associacao/manuel/profil/changer-le-mot-de-passe.md)
+
+## INSTALLATION
+
+* [Installation de l'API](installation/installation-de-lapi.md)
+* [Installation frontale](installation/installation-frontale.md)
